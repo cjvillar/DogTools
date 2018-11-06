@@ -1,11 +1,7 @@
-<h1>DogTools:</h1>
-<h2>Various scripts to assist in wrangling in datasets for the HCA/CIRM projects. These were created to meet very specific needs.</h2>
+<h1>DogTools</h1>
+<h3>Various scripts to assist in wrangling in datasets for the HCA/CIRM projects. These were created to meet very specific needs.</h3>
 
 <table>
-<tr>
-<th>Tool</th>
-<th>Description</th>
-</tr>
 <tr>
 <td>Bork.sh</td>
 <td>findIt.sh</td> 

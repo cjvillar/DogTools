@@ -1,22 +1,6 @@
 <h1>DogTools:</h1>
 <h2>Various scripts to assist in wrangling in datasets for the HCA/CIRM projects. These were created to meet very specific needs.</h2>
-<style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
 
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-</style>
 <table>
 <tr>
 <th>Tool</th>

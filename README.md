@@ -9,7 +9,7 @@
 <td>mungerTest2.0.sh</td>
 </tr>
 <tr>
-<td>Use for stress releif.</td>   
+<td>Use for stress relief.</td>   
 <td>Use to find files of the same extension.</td> 
 <td>Use to create "groups" of metadata for sequence files/bundles.</td>
 <td>Use to create a file manifest for CIRM.</td>

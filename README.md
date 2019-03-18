@@ -5,6 +5,7 @@
 <tr>
 <td>Bork.sh</td>
 <td>findIt.sh</td> 
+<td>fastqHound.py</td>
 <td>grouping.sh</td> 
 <td>mungerTest2.0.sh</td>
 </tr>

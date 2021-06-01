@@ -12,5 +12,6 @@
 <td>Use to find files of the same extension.</td> 
 <td>Use to create "groups" of metadata for sequence files/bundles.</td>
 <td>Use to create a file manifest for CIRM.</td>
+<td>Use to munge files.</td>
 </tr>
 </table>
